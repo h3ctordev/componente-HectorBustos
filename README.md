@@ -1,3 +1,1 @@
-## CLASE DOS
-
-#### 2. Proyecto CDN y primeras directivas
+## Desafio Proyecto VUE web components - Hector Bustos
